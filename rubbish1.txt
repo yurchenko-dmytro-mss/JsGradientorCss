@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 myrubbish1
 myrubbish2
+=======
+myrubbish3
+myrubbish4
+>>>>>>> 75a47ee494928f6300fb3a4fb2f60583136bb529
