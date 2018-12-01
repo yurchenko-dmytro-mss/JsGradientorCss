@@ -1,7 +1,7 @@
 ## Advanced Git
 
 ### Resources
-
+vxc;lvk;
 All of the resources you need for class are located in this repository.
 
 **Slides:** The PDF of the slides is in the `presentation` folder.
