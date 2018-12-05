@@ -1,0 +1,73 @@
+subroutines подпрограммы
+side-effects - побочные эффекты
+assertions - утверждения
+inconsistently - непоследовательно
+ancestral - наследственный
+resemblance - сходство
+mutually
+contradictory - противоречивый
+implemented - реализованы
+sequence - последовательность
+holisticly - целостно
+overall - в общем и целом
+conceptual - концептуальный
+transition - переход
+state - состояние (пложение в машине)
+traversing - обход (графа)
+in particular - особенно
+observation - наблюдение
+consequence - следствие (последствие)
+tedious - утомительный
+exclusions - исключения
+either - или
+efficient - эффективное
+shorthand - стенография
+remaining - остальной
+explicit - явный
+strength - прочность
+insistent - настойчивый
+hesitant - колеблющийся
+gone hope - ушла надежда
+unwind - размотать
+rewind - перемотка
+wrinkle - морщина
+eagerly - с нетерпением
+greed - жадность
+reluctant - ленивость
+posessive - притяжательный (сверхжадный)
+caution - осторожность
+parsimony - скупость
+foresight - предвидение
+least - наименее
+straight - Прямо
+looping - перекручивание
+loop - цикл программы ЭВМ
+evaluating - оценки
+snooping - шпионящий
+swooping - парящий
+assert - утверждать
+implicit - неявный
+substitute - замена, суррогат
+suspect - подозреваемый
+backtrack - отступаться
+skip over - пропустить
+intrinsically - в действительности
+suspect - подозреваемый
+upper path - верхний путь
+lower path - нижний путь
+unroll - развертываться
+eagerly - с нетерпением
+flip - кувырок
+habit - привычка
+suitable - подходящее
+debug - отлаживать
+maintain - поддерживать
+sequent - последовательный
+subsequent - последующий
+implication - подтекст
+intrinsic - свойственный
+as-yet-untried - пока еще непроверенный
+drawback - недостаток
+substitutions - замены, подстановки
+recomposition - переустройство
+decomposition - разложение
