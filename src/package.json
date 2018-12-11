@@ -1,0 +1,30 @@
+{
+  "name": "gradientor",
+  "version": "1.0.0",
+  "description": "CSS gradient ECMA5 simpliest parser",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yurchenko-dmytro-mss/JsGradientorCss.git"
+  },
+  "keywords": [
+    "CSS",
+    "JS",
+    "DOM",
+    "NODE",
+    "NPM",
+    "BROWSERIFY"
+  ],
+  "author": "Yurchenko Dmytro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yurchenko-dmytro-mss/JsGradientorCss/issues"
+  },
+  "homepage": "https://github.com/yurchenko-dmytro-mss/JsGradientorCss#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}

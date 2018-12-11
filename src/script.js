@@ -1,5 +1,7 @@
 ;'use strict';
 
+var _ = require('lodash');
+
 //********START
 // CORRECTLY REMOVE ALL COLOR PICKERS FROM INNER HTML BEFORE COMPUTEDSTYLE.********START
 //********START
